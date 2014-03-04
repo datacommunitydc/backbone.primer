@@ -1,5 +1,5 @@
 # Backbone, The Primer: Models and Collections #
-This is the second of four posts that guest author Greg MacWilliam has put together for Data Community DC: _Backbone, The Primer_. 
+This is the second of four posts that guest author Greg MacWilliam has put together for Data Community DC: _Backbone, The Primer_. For more details about the API and an overview, please go back to the Introduction.
 
 ## Usings Models
 

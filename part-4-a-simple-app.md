@@ -1,5 +1,5 @@
 # Backbone, The Primer: A Simple App #
-This is the fourth of four posts that guest author Greg MacWilliam has put together for Data Community DC: _Backbone, The Primer_. 
+This is the fourth of four posts that guest author Greg MacWilliam has put together for Data Community DC: _Backbone, The Primer_. For more details about the API and an overview, please go back to the Introduction. For more on Models and Collections please review part two of this primer. A comprehensive look at Views and event bindings was in part three.
 
 ## A simple REST application
 

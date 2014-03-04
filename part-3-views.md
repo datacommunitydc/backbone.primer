@@ -1,5 +1,5 @@
 # Backbone, The Primer: Views #
-This is the third of four posts that guest author Greg MacWilliam has put together for Data Community DC: _Backbone, The Primer_. 
+This is the third of four posts that guest author Greg MacWilliam has put together for Data Community DC: _Backbone, The Primer_. For more details about the API and an overview, please go back to the Introduction. For more on Models and Collections please review part two of this primer.
 
 ## Using Views
 
